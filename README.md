@@ -1,17 +1,17 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU1_01Mmm.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: DIU1.Mmm
 
-Descripción: 
+Descripción: Mmm.
 
-Logotipo: 
+Logotipo:
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Ana María Romero Delgado     :octocat:     
+ * :bust_in_silhouette:  Juan Ocaña Valenzuela     :octocat:
 
 ----- 
 
