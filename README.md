@@ -37,11 +37,19 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+![](capturas_pantalla/Fajardo_UserPersona.png)
+
+![](capturas_pantalla/Toph_UserPersona.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+![](capturas_pantalla/Fajardo_JourneyMap.png)
+
+![](capturas_pantalla/Toph_JourneyMap.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
