@@ -110,7 +110,7 @@ angular.module("angular", [])
                 goal3: "Buscando viajes, desesperada, encuentra la web Nomadizers, se registra y comienza a organizar el viaje",
                 touch3: "ordenador",
                 feel3: "5",
-                con3: "",
+                con3: "Al principio le cuesta un poco usar la página porque no es clara",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
@@ -124,7 +124,7 @@ angular.module("angular", [])
                  /*** PASO #5: ANALIZA ***/ 
                 
                 goal5: "Habla con las personas interesadas sobre la actividad y les comenta la idea que tiene en mente para ver qué opinan",
-                touch5: "móvil",
+                touch5: "teléfono móvil",
                 feel5: "4",
                 con5: "Hay una persona que no responde a los mensajes",
                 ima5: "cartoon-phone-sitting.png",
