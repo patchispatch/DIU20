@@ -108,7 +108,7 @@ angular.module("angular", [])
                 /*** PASO #3: ACTUA ***/ 
                 
                 goal3: "Buscando viajes, desesperada, encuentra la web Nomadizers, se registra y comienza a organizar el viaje",
-                touch3: "ordenador"
+                touch3: "ordenador",
                 feel3: "5",
                 con3: "",
                 ima3: "cartoon-phoningangry.png",
