@@ -88,54 +88,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Toph Bei Fong",
+                Photo: "toph.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                goal1: "Quiere organizar una ruta de varios días a San Fernando para conocer más sobre la historia de Camarón",
+                touch1: "*******",
+                feel1: "3",
+                con1: "No quiere hacer el viaje sola",
                 ima1: "cartoon-going.png",
                 
-                /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                /*** PASO #2: DECISION ***/ 
+                goal2: "Busca algún viaje ya organizado para participar en él",
+                touch2: "teléfono móvil",
+                feel2: "3",
+                con2: "No encuentra ninguno",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                goal3: "Buscando viajes, desesperada, encuentra la web Nomadizers, se registra y comienza a organizar el viaje",
+                touch3: "ordenador"
+                feel3: "5",
+                con3: "",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                goal4: "Tras publicar la oferta, recibe varias solicitudes de personas interesadas en el viaje",
+                touch4: "ordenador",
+                feel4: "3",
+                con4: "Se agobia porque es su primera vez organizando una excursión y no sabe lo que va a esperar la gente de ella",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                goal5: "Habla con las personas interesadas sobre la actividad y les comenta la idea que tiene en mente para ver qué opinan",
+                touch5: "móvil",
+                feel5: "4",
+                con5: "Hay una persona que no responde a los mensajes",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                goal6: "Cierra el viaje exitosamente dos días antes de realizarlo",
+                touch6: "Ordenador",
+                feel6: "5",
+                con6: "La persona que no contestaba a los mensajes anuló su participación en el viaje",
                 ima6: "cartoon-PChard.png",
                 
                 
