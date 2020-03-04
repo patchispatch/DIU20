@@ -92,50 +92,50 @@ angular.module("angular", [])
                 Photo: "toph.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere organizar una ruta de varios días a San Fernando para conocer más sobre la historia de Camarón",
-                touch1: "*******",
+                goal1: "Quiere organizar una ruta de varios días a San Fernando para conocer más sobre la historia de Camarón. Busca algún viaje ya organizado para participar en él",
+                touch1: "móvil",
                 feel1: "3",
-                con1: "No quiere hacer el viaje sola",
+                con1: "No quiere hacer el viaje sola y no encuentra ningún viaje",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECISION ***/ 
-                goal2: "Busca algún viaje ya organizado para participar en él",
-                touch2: "teléfono móvil",
+                goal2: "Buscando viajes, desesperada, encuentra la web Nomadizers al buscar viajes en el buscador, se registra de forma gratuita y comienza a organizar el viaje",
+                touch2: "ordenador, agenda",
                 feel2: "3",
-                con2: "No encuentra ninguno",
+                con2: "Tiene que registrarse para poder publicar un viaje pero la página no parece de fiar",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Buscando viajes, desesperada, encuentra la web Nomadizers, se registra y comienza a organizar el viaje",
+                goal3: "Publica el viaje, decidiendo organizarlo por su cuenta poniendo su coche como medio de transporte, sin atender a los anuncios de la página",
                 touch3: "ordenador",
                 feel3: "5",
-                con3: "Al principio le cuesta un poco usar la página porque no es clara",
+                con3: "Al principio le cuesta un poco usar la página porque no es clara y los anuncios son bastante intrusivos",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Tras publicar la oferta, recibe varias solicitudes de personas interesadas en el viaje",
+                goal4: "Tras publicar la oferta, observa que al buscarlo aparece correctamente en el feed y tres personas están interesadas. Busca en los perfiles de los interesados valoraciones y afinidad, y los encuentra en dos de ellos. El otro perfil está en blanco",
                 touch4: "ordenador",
                 feel4: "3",
-                con4: "Se agobia porque es su primera vez organizando una excursión y no sabe lo que va a esperar la gente de ella",
+                con4: "Se agobia porque es su primera vez organizando una excursión y no sabe lo que va a esperar la gente de ella. Encuentra muchos anuncios intrusivos mientras busca el suyo",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Habla con las personas interesadas sobre la actividad y les comenta la idea que tiene en mente para ver qué opinan",
+                goal5: "Contacta con las personas interesadas sobre la actividad a través de la página y les comenta la planificación que tiene pensada hasta ahora",
                 touch5: "teléfono móvil",
                 feel5: "4",
-                con5: "Hay una persona que no responde a los mensajes",
+                con5: "No tiene forma de comprobar el estado de su mensaje, y hay una persona que no responde ni tiene un perfil completo como para fiarse",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Cierra el viaje exitosamente dos días antes de realizarlo",
+                goal6: "Cierra el viaje exitosamente dos días antes de realizarlo con las dos personas interesadas, con una ruta planificada antes de comenzarlo",
                 touch6: "Ordenador",
                 feel6: "5",
-                con6: "La persona que no contestaba a los mensajes anuló su participación en el viaje",
+                con6: "Ha decidido establecer un canal de comunicación alternativo porque el de la página no da la información necesaria",
                 ima6: "cartoon-PChard.png",
                 
                 
