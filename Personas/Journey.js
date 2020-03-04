@@ -35,7 +35,7 @@ angular.module("angular", [])
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Ha de redactar un artículo sobre el valor histórico y cultural de la costa cantábrica y busca inspiración",
-                touch1: "Correo electrónico",
+                touch1: "correo electrónico",
                 feel1: "3",
                 con1: "Dispone de poco plazo para planificar el viaje y redactar el artículo, y no le gusta trabajar bajo presión",
                 ima1: "fajardocar.jpg",
