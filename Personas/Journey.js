@@ -96,14 +96,14 @@ angular.module("angular", [])
                 touch1: "móvil",
                 feel1: "3",
                 con1: "No quiere hacer el viaje sola y no encuentra ningún viaje",
-                ima1: "cartoon-going.png",
+                ima1: "toph_1.jpg",
                 
                 /*** PASO #2: DECISION ***/ 
                 goal2: "Buscando viajes, desesperada, encuentra la web Nomadizers al buscar viajes en el buscador, se registra de forma gratuita y comienza a organizar el viaje",
                 touch2: "ordenador, agenda",
                 feel2: "3",
                 con2: "Tiene que registrarse para poder publicar un viaje pero la página no parece de fiar",
-                ima2: "cartoon-teamthinking.png",
+                ima2: "toph_2.jpg",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
@@ -111,7 +111,7 @@ angular.module("angular", [])
                 touch3: "ordenador",
                 feel3: "5",
                 con3: "Al principio le cuesta un poco usar la página porque no es clara y los anuncios son bastante intrusivos",
-                ima3: "cartoon-phoningangry.png",
+                ima3: "toph_3.jpg",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
@@ -119,7 +119,7 @@ angular.module("angular", [])
                 touch4: "ordenador",
                 feel4: "3",
                 con4: "Se agobia porque es su primera vez organizando una excursión y no sabe lo que va a esperar la gente de ella. Encuentra muchos anuncios intrusivos mientras busca el suyo",
-                ima4: "cartoon-phone-street.png",
+                ima4: "toph_4.jpg",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
@@ -127,7 +127,7 @@ angular.module("angular", [])
                 touch5: "teléfono móvil",
                 feel5: "4",
                 con5: "No tiene forma de comprobar el estado de su mensaje, y hay una persona que no responde ni tiene un perfil completo como para fiarse",
-                ima5: "cartoon-phone-sitting.png",
+                ima5: "toph_5.jpg",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
@@ -136,7 +136,7 @@ angular.module("angular", [])
                 touch6: "Ordenador",
                 feel6: "5",
                 con6: "Ha decidido establecer un canal de comunicación alternativo porque el de la página no da la información necesaria",
-                ima6: "cartoon-PChard.png",
+                ima6: "toph_6.jpg",
                 
                 
                 
