@@ -61,8 +61,14 @@ Es común que gente reacia a la tecnología tenga problemas sin una buena experi
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
 >>>> Se deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
+>>> - Valoración final (numérica):
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+[Revisión de usabilidad](P1/usability review.xlsx)
+
+Valoración numérica: 49 puntos.
+
+La aplicación deja mucho que desear, a cada función que probábamos encontrábamos errores. Además es poco visual y está llena de publicidad.
 
 
 ## Paso 2. UX Design  
