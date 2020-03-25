@@ -84,10 +84,7 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
   
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa? (150-200 caracteres)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
