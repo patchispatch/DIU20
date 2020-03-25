@@ -126,9 +126,25 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Término                            | Significado                                                  |
+| ---------------------------------- | ------------------------------------------------------------ |
+| Inicio                             | Página inicial y central de la aplicación                    |
+| Iniciar sesión                     | Introducir datos de usuario para entrar en la aplicación     |
+| Registro                           | Formulario para el ingreso de un nuevo usuario               |
+| Muro                               | Conjunto de mensajes que escriben los usuarios               |
+| Publicar mensaje                   | Formulario para escribir un nuevo mensaje en el muro         |
+| Búsqueda                           | Búsqueda del contenido de la aplicación (viajes y perfiles)  |
+| Resultados                         | Resultados de la búsqueda de contenido (viajes y perfiles)   |
+| Foros                              | Conjunto de mensajes sobre temas de interés                  |
+| Página del foro                    | Mensajes, dudas y opiniones de los usuarios sobre el tema de interés |
+| Publicar mensaje en el foro        | Formulario para escribir un nuevo mensaje en el foro         |
+| Perfil                             | Información de un usuario                                    |
+| Editar perfil                      | Edición de la información de un usuario                      |
+| Mensajes                           | Conjunto de conversaciones en las que participa un usuario   |
+| Chat                               | Conversación en la que participa un usuario                  |
+| Notificaciones del muro y de foros | Avisos sobre nuevos mensajes                                 |
+
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
