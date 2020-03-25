@@ -93,26 +93,26 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
 |                                    | Usuario no identificado | Usuario identificado | Usuario verificado | Administrador |
 | ---------------------------------- | :---------------------: | :------------------: | :----------------: | :-----------: |
-| Registrarse                        |            -            |                      |                    |               |
-| Identificarse                      |                         |          -           |         -          |       -       |
-| Borrar usuario                     |                         |                      |                    |       -       |
-| Buscar viaje                       |            -            |          -           |         -          |       -       |
-| Ver viaje                          |            -            |          -           |         -          |       -       |
-| Inscribirse a viaje                |                         |          -           |         -          |               |
-| Publicar viaje                     |                         |          -           |         -          |               |
-| Modificar viaje propio             |                         |          -           |         -          |               |
-| Cancelar viaje propio              |                         |          -           |         -          |               |
-| Cancelar viaje ajeno               |                         |                      |                    |       -       |
-| Promocionar viajes propios         |                         |                      |         -          |               |
-| Ver estadísticas de viajes propios |                         |                      |         -          |               |
-| Ver perfil                         |            -            |          -           |         -          |       -       |
-| Modificar perfil propio            |                         |          -           |         -          |               |
-| Utilizar mensajería                |                         |          -           |         -          |               |
-| Publicar mensaje                   |                         |          -           |         -          |               |
-| Eliminar mensaje propio            |                         |          -           |         -          |               |
-| Eliminar mensajes ajeno            |                         |                      |                    |       -       |
-| Participar en foros                |                         |          -           |         -          |               |
-| Moderar foros                      |                         |                      |                    |       -       |
+| Registrarse                        |            M            |                      |                    |               |
+| Identificarse                      |                         |          A           |         A          |       A       |
+| Borrar usuario                     |                         |                      |                    |       B       |
+| Buscar viaje                       |            M            |          A           |         A          |       A       |
+| Ver viaje                          |            M            |          A           |         A          |       A       |
+| Inscribirse a viaje                |                         |          M           |         M          |               |
+| Publicar viaje                     |                         |          M           |         M          |               |
+| Modificar viaje propio             |                         |          B           |         B          |               |
+| Cancelar viaje propio              |                         |          B           |         B          |               |
+| Cancelar viaje ajeno               |                         |                      |                    |       B       |
+| Promocionar viajes propios         |                         |                      |         A          |               |
+| Ver estadísticas de viajes propios |                         |                      |         A          |               |
+| Ver perfil                         |            M            |          M           |         M          |       A       |
+| Modificar perfil propio            |                         |          B           |         B          |               |
+| Utilizar mensajería                |                         |          A           |         A          |               |
+| Publicar mensaje                   |                         |          A           |         A          |               |
+| Eliminar mensaje propio            |                         |          B           |         B          |               |
+| Eliminar mensajes ajeno            |                         |                      |                    |       B       |
+| Participar en foros                |                         |          A           |         A          |               |
+| Moderar foros                      |                         |                      |                    |       M       |
 
 
 
