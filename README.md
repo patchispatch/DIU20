@@ -80,9 +80,7 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![](https://github.com/patchispatch/DIU20/blob/master/P2/Mallareceptoradeinformacion.png)
 
   
 
