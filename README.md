@@ -13,7 +13,7 @@ Miembros
  * :bust_in_silhouette:   Ana María Romero Delgado     :octocat:     
  * :bust_in_silhouette:  Juan Ocaña Valenzuela     :octocat:
 
------ 
+-----
 
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
@@ -80,13 +80,12 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
+
   
-  
-  
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
@@ -95,7 +94,32 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+> > > Definir "User Map" y "Task Flow" ... 
+
+|                                    | Usuario no identificado | Usuario identificado | Usuario verificado | Administrador |
+| ---------------------------------- | :---------------------: | :------------------: | :----------------: | :-----------: |
+| Registrarse                        |            -            |                      |                    |               |
+| Identificarse                      |                         |          -           |         -          |       -       |
+| Borrar usuario                     |                         |                      |                    |       -       |
+| Buscar viaje                       |            -            |          -           |         -          |       -       |
+| Ver viaje                          |            -            |          -           |         -          |       -       |
+| Inscribirse a viaje                |                         |          -           |         -          |               |
+| Publicar viaje                     |                         |          -           |         -          |               |
+| Modificar viaje propio             |                         |          -           |         -          |               |
+| Cancelar viaje propio              |                         |          -           |         -          |               |
+| Cancelar viaje ajeno               |                         |                      |                    |       -       |
+| Promocionar viajes propios         |                         |                      |         -          |               |
+| Ver estadísticas de viajes propios |                         |                      |         -          |               |
+| Ver perfil                         |            -            |          -           |         -          |       -       |
+| Modificar perfil propio            |                         |          -           |         -          |               |
+| Utilizar mensajería                |                         |          -           |         -          |               |
+| Publicar mensaje                   |                         |          -           |         -          |               |
+| Eliminar mensaje propio            |                         |          -           |         -          |               |
+| Eliminar mensajes ajeno            |                         |                      |                    |       -       |
+| Participar en foros                |                         |          -           |         -          |               |
+| Moderar foros                      |                         |                      |                    |       -       |
+
+
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
