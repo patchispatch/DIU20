@@ -82,16 +82,18 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
 ![](https://github.com/patchispatch/DIU20/blob/master/P2/Mallareceptoradeinformacion.png)
 
-  
+> > > ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa? (150-200 caracteres)
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa? (150-200 caracteres)
+
+
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
 > > > Definir "User Map" y "Task Flow".
-> > >
-> > > Nosotros hemos definido la Matriz de Tareas y Usuarios. 
+
+Matriz de Tareas y Usuarios:
 
 |                                    | Usuario no identificado | Usuario identificado | Usuario verificado | Administrador |
 | ---------------------------------- | :---------------------: | :------------------: | :----------------: | :-----------: |
