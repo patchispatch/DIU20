@@ -78,7 +78,7 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior:
 
 ![](https://github.com/patchispatch/DIU20/blob/master/P2/Mallareceptoradeinformacion.png)
 
@@ -89,7 +89,9 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-> > > Definir "User Map" y "Task Flow" ... 
+> > > Definir "User Map" y "Task Flow".
+> > >
+> > > Nosotros hemos definido la Matriz de Tareas y Usuarios. 
 
 |                                    | Usuario no identificado | Usuario identificado | Usuario verificado | Administrador |
 | ---------------------------------- | :---------------------: | :------------------: | :----------------: | :-----------: |
