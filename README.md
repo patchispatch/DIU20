@@ -41,9 +41,9 @@ Hemos elegido Nomadizers por el concepto que tiene de las experiencias y porque 
 
 Son dos personas con perfiles que encajan como usuarios de la página, con contextos, edades diversas y necesidades distintas.
 
-![](capturas_pantalla/Fajardo_UserPersona.png)
+![](https://github.com/patchispatch/DIU20/blob/master/P1/Fajardo_UserPersona.png)
 
-![](capturas_pantalla/Toph_UserPersona.png)
+![](https://github.com/patchispatch/DIU20/blob/master/P1/Toph_UserPersona.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -52,9 +52,9 @@ Son dos personas con perfiles que encajan como usuarios de la página, con conte
 
 Es común que gente reacia a la tecnología tenga problemas sin una buena experiencia de usuario. Aun así, una buena experiencia de usuario es útil.
 
-![](capturas_pantalla/Fajardo_JourneyMap.png)
+![](https://github.com/patchispatch/DIU20/blob/master/P1/Fajardo_JourneyMap.png)
 
-![](capturas_pantalla/Toph_JourneyMap.png)
+![](https://github.com/patchispatch/DIU20/blob/master/P1/Toph_JourneyMap.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
