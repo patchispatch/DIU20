@@ -1,4 +1,3 @@
-# DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
 Grupo: DIU1_01Mmm.  Curso: 2019/20 
@@ -118,7 +117,9 @@ Matriz de Tareas y Usuarios:
 | Participar en foros                |                         |          A           |         A          |               |
 | Moderar foros                      |                         |                      |                    |       M       |
 
+Sitemap:
 
+![](img/DIUsitemap.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
@@ -127,23 +128,33 @@ Matriz de Tareas y Usuarios:
 
 >>> Identificar términos para diálogo con usuario  
 
-| Término                            | Significado                                                  |
-| ---------------------------------- | ------------------------------------------------------------ |
-| Inicio                             | Página inicial y central de la aplicación                    |
-| Iniciar sesión                     | Introducir datos de usuario para entrar en la aplicación     |
-| Registro                           | Formulario para el ingreso de un nuevo usuario               |
-| Muro                               | Conjunto de mensajes que escriben los usuarios               |
-| Publicar mensaje                   | Formulario para escribir un nuevo mensaje en el muro         |
-| Búsqueda                           | Búsqueda del contenido de la aplicación (viajes y perfiles)  |
-| Resultados                         | Resultados de la búsqueda de contenido (viajes y perfiles)   |
-| Foros                              | Conjunto de mensajes sobre temas de interés                  |
-| Página del foro                    | Mensajes, dudas y opiniones de los usuarios sobre el tema de interés |
-| Publicar mensaje en el foro        | Formulario para escribir un nuevo mensaje en el foro         |
-| Perfil                             | Información de un usuario                                    |
-| Editar perfil                      | Edición de la información de un usuario                      |
-| Mensajes                           | Conjunto de conversaciones en las que participa un usuario   |
-| Chat                               | Conversación en la que participa un usuario                  |
-| Notificaciones del muro y de foros | Avisos sobre nuevos mensajes                                 |
+| Término                                   | Significado                                                  |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| Inicio                                    | Página inicial y central de la aplicación; muestra el *muro* |
+| Iniciar sesión                            | Introducir datos de usuario para entrar en la aplicación     |
+| Registro                                  | Formulario para el ingreso de un nuevo usuario               |
+| Muro                                      | Conjunto de mensajes que escriben los usuarios               |
+| Publicar mensaje                          | Formulario para escribir un nuevo mensaje en el muro         |
+| Búsqueda                                  | Búsqueda del contenido de la aplicación (viajes y perfiles)  |
+| Resultados                                | Resultados de la búsqueda de contenido (viajes y perfiles)   |
+| Foros                                     | Conjunto de mensajes sobre temas de interés                  |
+| Página del foro                           | Mensajes, dudas y opiniones de los usuarios sobre el tema de interés |
+| Publicar mensaje en el foro               | Formulario para escribir un nuevo mensaje en el foro         |
+| Perfil                                    | Información de un usuario                                    |
+| Editar perfil                             | Edición de la información de un usuario                      |
+| Mensajes                                  | Conjunto de conversaciones en las que participa un usuario   |
+| Chat                                      | Conversación en la que participa un usuario                  |
+| Notificaciones del muro y de foros        | Avisos sobre nuevos mensajes                                 |
+| Viaje                                     | Página descriptiva de un viaje publicado                     |
+| <img src="img/home.svg" width="30">       | Icono relacionado con la página *Inicio*                     |
+| <img src="img/search.svg" width="30">     | Icono relacionado con la página *Búsqueda* y la acción de buscar resultados |
+| <img src="img/user.svg" width="30">       | Icono relacionado con la página *Perfil*                     |
+| <img src="img/mail.svg" width="30">       | Icono relacionado con la página *Mensajes*                   |
+| <img src="img/blog.svg" width="30">       | Icono relacionado con la publicación de mensajes, tanto en el *muro* como en el *foro* |
+| <img src="img/plus.svg" width="30">       | Icono relacionado con la publicación de un nuevo *viaje*     |
+| <img src="img/edit.svg" width="30">       | Icono relacionado con la *edición* de una página, ya sea el *perfil* o un *viaje* |
+| <img src="img/plusperson.svg" width="30"> | Icono relacionado con la inscripción a un *viaje*            |
+| <img src="img/arrow.svg" width="30">      | Icono relacionado con el *envío* de un mensaje               |
 
 
 
@@ -152,6 +163,114 @@ Matriz de Tareas y Usuarios:
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+**Inicio:**
+
+![](img/wf/MURO.png)
+
+**Búsqueda:**
+
+![](img/wf/BÚSQUEDA.png)
+
+
+
+**Notificaciones:**
+
+![](img/wf/NOTIFICACIONES.png)
+
+
+
+**Perfil**
+
+![](img/wf/PERFIL.png)
+
+
+
+**Mensajes:**
+
+![](img/wf/MENSAJES.png)
+
+
+
+**Viaje:**
+
+![](img/wf/VIAJE.png)
+
+
+
+**Foros:**
+
+![](img/wf/FOROS.png)
+
+
+
+**Página foro:**
+
+![](img/wf/PÁGINA FORO.png)
+
+
+
+**Publicar mensaje foro:**
+
+![](img/wf/PUBLICAR MENSAJE FORO.png)
+
+
+
+**Publicar mensaje muro:**
+
+![](img/wf/PUBLICAR MENSAJE.png)
+
+
+
+**Editar perfil:**
+
+![](img/wf/EDITAR PERFIL.png)
+
+**Editar viaje:**
+
+![](img/wf/EDITAR VIAJE.png)
+
+
+
+**Ayuda:**
+
+![](img/wf/AYUDA.png)
+
+
+
+**Chat:**
+
+![](img/wf/CHAT.png)
+
+
+
+**Contacto:**
+
+![](img/wf/CONTACTO.png)
+
+
+
+**Iniciar sesión:**
+
+![](img/wf/INICIAR SESIÓN.png)
+
+
+
+**Registro:**
+
+![](img/wf/REGISTRO.png)
+
+
+
+**Menú lateral**
+
+![](img/wf/MENÚ LATERAL.png)
+
+
+
+****
+
+****
 
 
 ## Paso 3. Make (Prototyping) 
