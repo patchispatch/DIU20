@@ -206,29 +206,29 @@ Sitemap:
 
 **Página foro:**
 
-![](img/wf/PÁGINA FORO.png)
+![](img/wf/PÁGINA\ FORO.png)
 
 
 
 **Publicar mensaje foro:**
 
-![](img/wf/PUBLICAR MENSAJE FORO.png)
+![](img/wf/PUBLICAR\ MENSAJE FORO.png)
 
 
 
 **Publicar mensaje muro:**
 
-![](img/wf/PUBLICAR MENSAJE.png)
+![](img/wf/PUBLICAR\ MENSAJE.png)
 
 
 
 **Editar perfil:**
 
-![](img/wf/EDITAR PERFIL.png)
+![](img/wf/EDITAR\ PERFIL.png)
 
 **Editar viaje:**
 
-![](img/wf/EDITAR VIAJE.png)
+![](img/wf/EDITAR\ VIAJE.png)
 
 
 
@@ -252,7 +252,7 @@ Sitemap:
 
 **Iniciar sesión:**
 
-![](img/wf/INICIAR SESIÓN.png)
+![](img/wf/INICIAR\ SESIÓN.png)
 
 
 
@@ -264,7 +264,7 @@ Sitemap:
 
 **Menú lateral**
 
-![](img/wf/MENÚ LATERAL.png)
+![](img/wf/MENÚ\ LATERAL.png)
 
 
 
