@@ -77,13 +77,13 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior:
+>>> Comenta con un diagrama los aspectos más destacados a modo de conclusión de la práctica anterior:
 
 ![](https://github.com/patchispatch/DIU20/blob/master/P2/Mallareceptoradeinformacion.png)
 
-> > > ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa? (150-200 caracteres)
+> > > ¿Qué planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa? (150-200 caracteres).
 
-
+Reforzar la parte "social" de la aplicación, simplificar las secciones para que el acceso sea más intuitivo y fácil, y añadir distintos perfiles de usuario.
 
 
 
@@ -117,6 +117,8 @@ Matriz de Tareas y Usuarios:
 | Participar en foros                |                         |          A           |         A          |               |
 | Moderar foros                      |                         |                      |                    |       M       |
 
+
+
 Sitemap:
 
 ![](img/DIUsitemap.png)
@@ -126,7 +128,7 @@ Sitemap:
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+>>> Identificar términos para diálogo con usuario.
 
 | Término                                   | Significado                                                  |
 | ----------------------------------------- | ------------------------------------------------------------ |
@@ -162,7 +164,7 @@ Sitemap:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/móvil (organización y simulación). 
 
 **Inicio:**
 
@@ -180,7 +182,7 @@ Sitemap:
 
 
 
-**Perfil**
+**Perfil:**
 
 ![](img/wf/PERFIL.png)
 
@@ -262,7 +264,7 @@ Sitemap:
 
 
 
-**Menú lateral**
+**Menú lateral:**
 
 ![](img/wf/MENÚ-LATERAL.png)
 
