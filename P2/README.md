@@ -26,7 +26,7 @@ Los usuarios tienen varias preguntas sobre la página, referentes a *búsqueda m
 
 Como nuevas ideas a partir de ella, proponemos *simplificar en secciones* las tareas que puedes hacer en la página (viajes, personas y publicación), introducir el concepto de *usuario verificado* para poner en mejor lugar a las agencias de viajes, un *chat integrado* para mejorar la comunicación y mejorar más aún el *aspecto social* de la web con foros y mensajes.
 
-![img](https://github.com/patchispatch/DIU20/raw/master/P2/Mallareceptoradeinformacion.png)
+![](mallareceptoradeinformacion.png)
 
 ## Matriz de tareas/usuarios
 
@@ -66,7 +66,7 @@ Hemos decidido crear cuatro tipos de usuarios distintos que pueden usar la aplic
 
 Esta es la estructura jerárquica que tiene nuestra aplicación. Después de pasar el proceso de *registro/inicio de sesión* se puede acceder a la página de *inicio*, desde la cual podemos *publicar mensajes*, *buscar viajes*, *ver nuestro perfil y acceder a la información de nuestros viajes*, acceder a la *mensajería* y ver el *menú lateral*.
 
-![DIUsitemap.png](https://github.com/patchispatch/DIU20/blob/master/img/DIUsitemap.png?raw=true)
+![](mapadelsitio.png)
 
 
 

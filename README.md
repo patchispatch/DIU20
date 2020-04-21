@@ -1,4 +1,4 @@
-Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
+# Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
 Grupo: DIU1_01Mmm.  Curso: 2019/20 
 
@@ -17,7 +17,7 @@ Miembros
 En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
 
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
+Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
 
 # Proceso de Diseño 
@@ -40,9 +40,9 @@ Hemos elegido Nomadizers por el concepto que tiene de las experiencias y porque 
 
 Son dos personas con perfiles que encajan como usuarios de la página, con contextos, edades diversas y necesidades distintas.
 
-![](https://github.com/patchispatch/DIU20/blob/master/P1/Fajardo_UserPersona.png)
+![](P1/Fajardo_UserPersona.png)
 
-![](https://github.com/patchispatch/DIU20/blob/master/P1/Toph_UserPersona.png)
+![](P1/Toph_UserPersona.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -51,9 +51,9 @@ Son dos personas con perfiles que encajan como usuarios de la página, con conte
 
 Es común que gente reacia a la tecnología tenga problemas sin una buena experiencia de usuario. Aun así, una buena experiencia de usuario es útil.
 
-![](https://github.com/patchispatch/DIU20/blob/master/P1/Fajardo_JourneyMap.png)
+![](P1/Fajardo_JourneyMap.png)
 
-![](https://github.com/patchispatch/DIU20/blob/master/P1/Toph_JourneyMap.png)
+![](P1/Toph_JourneyMap.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -79,7 +79,7 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusión de la práctica anterior:
 
-![](https://github.com/patchispatch/DIU20/blob/master/P2/Mallareceptoradeinformacion.png)
+![](P2/mallareceptoradeinformacion.png)
 
 > > > ¿Qué planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa? (150-200 caracteres).
 
@@ -121,7 +121,7 @@ Matriz de Tareas y Usuarios:
 
 Sitemap:
 
-![](img/DIUsitemap.png)
+![](P2/mapadelsitio.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
@@ -166,107 +166,21 @@ Sitemap:
 
 >>> Plantear el  diseño del layout para Web/móvil (organización y simulación). 
 
-**Inicio:**
-
-![](img/wf/MURO.png)
-
-**Búsqueda:**
-
-![](img/wf/BÚSQUEDA.png)
-
-
-
-**Notificaciones:**
-
-![](img/wf/NOTIFICACIONES.png)
-
-
-
-**Perfil:**
-
-![](img/wf/PERFIL.png)
-
-
-
-**Mensajes:**
-
-![](img/wf/MENSAJES.png)
-
-
-
-**Viaje:**
-
-![](img/wf/VIAJE.png)
-
-
-
-**Foros:**
-
-![](img/wf/FOROS.png)
-
-
-
-**Página foro:**
-
-![](img/wf/PÁGINA-FORO.png)
-
-
-
-**Publicar mensaje foro:**
-
-![](img/wf/PUBLICAR-FORO.png)
-
-
-
-**Publicar mensaje muro:**
-
-![](img/wf/PUBLICAR.png)
-
-
-
-**Editar perfil:**
-
-![](img/wf/EDITAR-PERFIL.png)
-
-**Editar viaje:**
-
-![](img/wf/EDITAR-VIAJE.png)
-
-
-
-**Ayuda:**
-
-![](img/wf/AYUDA.png)
-
-
-
-**Chat:**
-
-![](img/wf/CHAT.png)
-
-
-
-**Contacto:**
-
-![](img/wf/CONTACTO.png)
-
-
-
-**Iniciar sesión:**
-
-![](img/wf/INICIAR-SESIÓN.png)
-
-
-
-**Registro:**
-
-![](img/wf/REGISTRO.png)
-
-
-
-**Menú lateral:**
-
-![](img/wf/MENÚ-LATERAL.png)
+Estas son las distintas pantallas de la interfaz de la aplicación.
+
+| Inicio                             | Búsqueda                          | Notificaciones                     |
+| ---------------------------------- | --------------------------------- | ---------------------------------- |
+| ![](P2/bocetos/MURO.png)           | ![](P2/bocetos/BÚSQUEDA.png)      | ![](P2/bocetos/NOTIFICACIONES.png) |
+| **Perfil**                         | **Mensajes**                      | **Viaje**                          |
+| ![](P2/bocetos/PERFIL.png)         | ![](P2/bocetos/MENSAJES.png)      | ![](P2/bocetos/VIAJE.png)          |
+| **Foros**                          | **Página foro**                   | **Publicar mensaje foro**          |
+| ![](P2/bocetos/FOROS.png)          | ![](P2/bocetos/PÁGINA-FORO.png)   | ![](P2/bocetos/PUBLICAR-FORO.png)  |
+| **Publicar mensaje muro**          | **Editar perfil**                 | **Editar viaje:**                  |
+| ![](P2/bocetos/PUBLICAR.png)       | ![](P2/bocetos/EDITAR-PERFIL.png) | ![](P2/bocetos/EDITAR-VIAJE.png)   |
+| **Ayuda**                          | **Chat**                          | **Contacto**                       |
+| ![](P2/bocetos/AYUDA.png)          | ![](P2/bocetos/CHAT.png)          | ![](P2/bocetos/CONTACTO.png)       |
+| **Iniciar sesión**                 | **Registro**                      | **Menú lateral**                   |
+| ![](P2/bocetos/INICIAR-SESIÓN.png) | ![](P2/bocetos/REGISTRO.png)      | ![](P2/bocetos/MENÚ-LATERAL.png)   |
 
 
 
@@ -277,24 +191,24 @@ Sitemap:
 ## Paso 3. Mi equipo UX-Case Study 
 
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 
 >>> Analizar lo aprendido de la experiencia MuseApp 
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/landing-page.png)  3.b Logotipo
+![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/guidelines.png) 3.c Guidelines
+![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/mockup.png)  3.d Video
+![Método UX](img/mockup.png)  3.d Video
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
@@ -303,7 +217,7 @@ Sitemap:
 ## Paso 4. Evaluación 
 
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/ABtesting.png) 4.a Casos asignados
+![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
 
@@ -312,13 +226,13 @@ Sitemap:
 >>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/usability-testing.png) 4.b User Testing
+![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/Survey.png). 4.c Ranking 
+![Método UX](img/Survey.png)4.c Ranking 
 ----
 
 >>> Concluya con un ranking de los casos evaluados 
@@ -329,7 +243,7 @@ Sitemap:
 ## Paso 5. Evaluación de Accesibilidad  
 
 
-![Método UX](C:/Users/ana/Downloads/cole/DIU3/img/Accesibility.png)  5.a Accesibility evaluation Report
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 ----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
