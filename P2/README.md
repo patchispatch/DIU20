@@ -26,7 +26,7 @@ Los usuarios tienen varias preguntas sobre la página, referentes a *búsqueda m
 
 Como nuevas ideas a partir de ella, proponemos *simplificar en secciones* las tareas que puedes hacer en la página (viajes, personas y publicación), introducir el concepto de *usuario verificado* para poner en mejor lugar a las agencias de viajes, un *chat integrado* para mejorar la comunicación y mejorar más aún el *aspecto social* de la web con foros y mensajes.
 
-![](mallareceptoradeinformacion.png)
+![](Mallareceptoradeinformacion.png)
 
 ## Matriz de tareas/usuarios
 
