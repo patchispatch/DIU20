@@ -27,7 +27,7 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres).
 
 Las aplicaciones asignadas son de viajes basados en economía colaborativa. La finalidad de estos viajes puede ser únicamente de transporte como de experiencias. 
 
@@ -36,7 +36,7 @@ Hemos elegido Nomadizers por el concepto que tiene de las experiencias y porque 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres).
 
 Son dos personas con perfiles que encajan como usuarios de la página, con contextos, edades diversas y necesidades distintas.
 
@@ -47,7 +47,7 @@ Son dos personas con perfiles que encajan como usuarios de la página, con conte
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres).
 
 Es común que gente reacia a la tecnología tenga problemas sin una buena experiencia de usuario. Aun así, una buena experiencia de usuario es útil.
 
@@ -57,11 +57,11 @@ Es común que gente reacia a la tecnología tenga problemas sin una buena experi
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad
->>>> Se deben incluir claramente los siguientes elementos
+>>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad).
+>>>> Se deben incluir claramente los siguientes elementos:
 >>> - Ruta del documento:
 >>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Comentario sobre la valoración:  (60-120 caracteres).
 
 La revisión de usabilidad se encuentra en P1/usability review.xlsx
 
@@ -79,7 +79,7 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusión de la práctica anterior:
 
-![](P2/mallareceptoradeinformacion.png)
+![](P2/Mallareceptoradeinformacion.png)
 
 > > > ¿Qué planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa? (150-200 caracteres).
 
@@ -92,7 +92,7 @@ Reforzar la parte "social" de la aplicación, simplificar las secciones para que
 
 > > > Definir "User Map" y "Task Flow".
 
-Matriz de Tareas y Usuarios:
+**Matriz de Tareas y Usuarios**:
 
 |                                    | Usuario no identificado | Usuario identificado | Usuario verificado | Administrador |
 | ---------------------------------- | :---------------------: | :------------------: | :----------------: | :-----------: |
@@ -119,7 +119,7 @@ Matriz de Tareas y Usuarios:
 
 
 
-Sitemap:
+**Sitemap**:
 
 ![](P2/mapadelsitio.png)
 
@@ -129,6 +129,8 @@ Sitemap:
 
 
 >>> Identificar términos para diálogo con usuario.
+
+**Etiquetado**:
 
 | Término                                   | Significado                                                  |
 | ----------------------------------------- | ------------------------------------------------------------ |
@@ -164,9 +166,9 @@ Sitemap:
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/móvil (organización y simulación). 
+>>> Plantear el diseño del layout para Web/móvil (organización y simulación). 
 
-Estas son las distintas pantallas de la interfaz de la aplicación.
+**Bocetos Lo-Fi**: Estas son las distintas pantallas de la interfaz de la aplicación.
 
 | Inicio                             | Búsqueda                          | Notificaciones                     |
 | ---------------------------------- | --------------------------------- | ---------------------------------- |
@@ -195,7 +197,7 @@ Estas son las distintas pantallas de la interfaz de la aplicación.
 -----
 
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+>>> Analizar lo aprendido de la experiencia MuseApp.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -206,7 +208,7 @@ Estas son las distintas pantallas de la interfaz de la aplicación.
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
@@ -223,7 +225,7 @@ Estas son las distintas pantallas de la interfaz de la aplicación.
 
 >>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+>>>> En la sección P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
