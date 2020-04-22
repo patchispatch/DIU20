@@ -197,9 +197,17 @@ Diseñamos los primeros bocetos Lo-Fi de lo que serían las distintas pantallas 
 
 ### Logotipo
 
+Para actualizar la imagen de la aplicación a las nuevas líneas de diseño, expuestas con más detalle en el punto **Guía de Estilo**, se ha optado por un diseño más sobrio a la vez que colorido. Esto a su vez ayuda a identificar la marca en formatos más pequeños, como las pantallas de dispositivos móviles o el icono identificativo de la app.
 
+Podemos observar el logo antiguo aquí:
 
+![](../img/Logos/nomadizers.jpg)
 
+Y los logos nuevos aquí:
+
+![](../img/Logos/logo_a.png)
+
+![](../img/Logos/logo_c.png)
 
 ### Guía de estilo
 
