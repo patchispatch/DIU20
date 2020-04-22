@@ -20,6 +20,7 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
 
+
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -68,6 +69,12 @@ La revisión de usabilidad se encuentra en P1/usability review.xlsx
 Valoración numérica: 49 puntos.
 
 La aplicación deja mucho que desear, a cada función que probábamos encontrábamos errores. Además es poco visual y está llena de publicidad.
+
+
+
+------
+
+
 
 
 ## Paso 2. UX Design  
@@ -216,6 +223,12 @@ Reforzar la parte "social" de la aplicación, simplificar las secciones para que
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
+
+------
+
+
+
+
 ## Paso 4. Evaluación 
 
 
@@ -240,6 +253,12 @@ Reforzar la parte "social" de la aplicación, simplificar las secciones para que
 >>> Concluya con un ranking de los casos evaluados 
 
 >>> Valoración personal 
+
+
+
+------
+
+
 
 
 ## Paso 5. Evaluación de Accesibilidad  

@@ -4,7 +4,7 @@
 
 ## Análisis de nuestra aplicación
 
-#### Introducción
+### Introducción
 
 ¿Deseas tener nuevas experiencias de viaje y conocer gente nueva afín con tus gustos? ¿Quieres dirigirte a un sitio en concreto y buscas opiniones sobre otras personas? ¿Te gustaría organizar un tour por una ciudad para disfrutar de una actividad en concreto pero no te gustaría hacerlo solo?
 
@@ -12,7 +12,7 @@ Hemos creado esta aplicación con el fin de dar una opción rápida y sencilla p
 
 
 
-#### Estudio de mercado
+### Estudio de mercado
 
 Recopilamos una serie de necesidades básicas que pueden tener nuestros usuarios objetivo, tales como:
 
@@ -22,7 +22,7 @@ Recopilamos una serie de necesidades básicas que pueden tener nuestros usuarios
 
 
 
-#### Análisis competitivo
+### Análisis competitivo
 
 Decidimos probar distintas páginas de viajes para ver cómo representaban los viajes y cómo de importante era la componente social. Al final elegimos centrarnos en la web Nomadizers por lo original que es su concepto de "experiencia de viaje" (el destino no es lo importante, es la experiencia con la gente que te acompaña).
 
@@ -37,7 +37,7 @@ Al usar la página web observamos que:
 
 
 
-#### Personas
+### Personas
 
 Creamos dos personas para identificar las metas y los puntos de dolor de nuestros usuarios objetivo. Ambos tienen perfiles que encajan como usuarios de la página, con contextos, edades y necesidades distintas.
 
@@ -55,7 +55,7 @@ Y nuestra segunda persona, **Toph Bei Fong**, es una estudiante de cocina un poc
 
 
 
-#### Objetivos de los usuarios
+### Objetivos de los usuarios
 
 Identificamos los objetivos de los usuarios basándonos en las dos personas que hemos creado:
 
@@ -65,7 +65,7 @@ Identificamos los objetivos de los usuarios basándonos en las dos personas que 
 
 
 
-#### Puntos de dolor de los usuarios
+### Puntos de dolor de los usuarios
 
 También identificamos los puntos de dolor de los usuarios, basándonos también en las dos personas que hemos creado:
 
@@ -75,7 +75,7 @@ También identificamos los puntos de dolor de los usuarios, basándonos también
 
 
 
-#### User Journey Maps
+### User Journey Maps
 
 Fajardo quiere buscar un viaje barato al norte de España para poder inspirarse y redactar su artículo relacionado con la Costa Cantábrica:
 
@@ -89,13 +89,13 @@ Toph quiere conocer más sobre la historia de Camarón, y busca una ruta por San
 
 
 
-#### Malla receptora de información
+### Malla receptora de información
 
 Como conclusión al uso de la página Nomadizers, creamos este diagrama con los aspectos más destacados. Nuestra propuesta para mejorar la página es reforzar la parte "social" de la aplicación, simplificar las secciones para que el acceso sea más intuitivo y fácil, y añadir distintos perfiles de usuario.
 
 ![](../P2/Mallareceptoradeinformacion.png)
 
-#### Matriz de Tareas y Usuarios
+### Matriz de Tareas y Usuarios
 
 Necesitábamos distinguir entre usuarios cuya actividad principal es buscar viajes y usuarios que suelen publicar viajes (como las agencias), por lo que las tareas que se pueden realizar en la aplicación son las siguientes:
 
@@ -124,11 +124,13 @@ Necesitábamos distinguir entre usuarios cuya actividad principal es buscar viaj
 
 
 
-#### Mapa del sitio y etiquetado
+### Mapa del sitio y etiquetado
 
 Con todas estas posibles acciones que puede hacer el usuario, diseñamos el concepto de la aplicación y sus páginas:
 
 ![](../P2/mapadelsitio.png)
+
+
 
 | Término                                   | Significado                                                  |
 | ----------------------------------------- | ------------------------------------------------------------ |
@@ -160,32 +162,33 @@ Con todas estas posibles acciones que puede hacer el usuario, diseñamos el conc
 
 
 
+### Primer prototipo
 
+Diseñamos los primeros bocetos Lo-Fi de lo que serían las distintas pantallas de la aplicación:
 
-#### Primer prototipo
-
-Diseñamos los primeros bocetos Lo-Fi de la aplicación. Estas serían las distintas pantallas de la interfaz.
-
-
-
-
-
-#### Mapa del sitio
-
-Aquí creamos el mapa del sitio con los mock-ups de la app.
-
-
-
-
-
-#### Logotipo
-
+| Inicio                                | Búsqueda                             | Notificaciones                        |
+| ------------------------------------- | ------------------------------------ | ------------------------------------- |
+| ![](../P2/bocetos/MURO.png)           | ![](../P2/bocetos/BÚSQUEDA.png)      | ![](../P2/bocetos/NOTIFICACIONES.png) |
+| **Perfil**                            | **Mensajes**                         | **Viaje**                             |
+| ![](../P2/bocetos/PERFIL.png)         | ![](../P2/bocetos/MENSAJES.png)      | ![](../P2/bocetos/VIAJE.png)          |
+| **Foros**                             | **Página foro**                      | **Publicar mensaje foro**             |
+| ![](../P2/bocetos/FOROS.png)          | ![](../P2/bocetos/PÁGINA-FORO.png)   | ![](../P2/bocetos/PUBLICAR-FORO.png)  |
+| **Publicar mensaje muro**             | **Editar perfil**                    | **Editar viaje:**                     |
+| ![](../P2/bocetos/PUBLICAR.png)       | ![](../P2/bocetos/EDITAR-PERFIL.png) | ![](../P2/bocetos/EDITAR-VIAJE.png)   |
+| **Ayuda**                             | **Chat**                             | **Contacto**                          |
+| ![](../P2/bocetos/AYUDA.png)          | ![](../P2/bocetos/CHAT.png)          | ![](../P2/bocetos/CONTACTO.png)       |
+| **Iniciar sesión**                    | **Registro**                         | **Menú lateral**                      |
+| ![](../P2/bocetos/INICIAR-SESIÓN.png) | ![](../P2/bocetos/REGISTRO.png)      | ![](../P2/bocetos/MENÚ-LATERAL.png)   |
 
 
 
+### Logotipo
 
-#### Guía de estilo
 
+
+
+
+### Guía de estilo
 
 
 
@@ -196,7 +199,10 @@ Aquí creamos el mapa del sitio con los mock-ups de la app.
 ## Propuesta de elementos de diseño o patrones a usar 
 
 
+
 ## Historia en Video del UX Case Study
+
+
 
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
