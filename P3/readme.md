@@ -29,11 +29,13 @@ Decidimos probar distintas páginas de viajes para ver cómo representaban los v
 Al usar la página web observamos que:
 
 + Toda la página y en especial el formulario de creación de viajes no son sencillos, rápidos e intuitivos.
++ Tiene mucho aspecto comunitario.
 + Las recomendaciones personalizadas están poco visibles entre anuncios de otros sitios web.
 + No hay guía de ayuda ni tutorial.
 + El lenguaje y la terminología son adecuados.
 + No se puede compartir contenido por redes sociales.
 + Se hace énfasis en compartir experiencias con otras personas, no en el viajar a un destino.
++ Se usan foros, pero no están bien organizados.
 
 
 
@@ -91,13 +93,17 @@ Toph quiere conocer más sobre la historia de Camarón, y busca una ruta por San
 
 ### Malla receptora de información
 
-Como conclusión al uso de la página Nomadizers, creamos este diagrama con los aspectos más destacados. Nuestra propuesta para mejorar la página es reforzar la parte "social" de la aplicación, simplificar las secciones para que el acceso sea más intuitivo y fácil, y añadir distintos perfiles de usuario.
+Como conclusión al uso de la página Nomadizers, creamos este diagrama con los aspectos más destacados. 
 
 ![](../P2/Mallareceptoradeinformacion.png)
 
+Partiendo de la página web, proponemos *simplificar en secciones* las tareas que puedes hacer en la página (viajes, personas y publicación), introducir el concepto de *usuario verificado* para poner en mejor lugar a las agencias de viajes, un *chat integrado* para mejorar la comunicación y mejorar más aún el *aspecto social* de la web con foros y mensajes.
+
+
+
 ### Matriz de Tareas y Usuarios
 
-Necesitábamos distinguir entre usuarios cuya actividad principal es buscar viajes y usuarios que suelen publicar viajes (como las agencias), por lo que las tareas que se pueden realizar en la aplicación son las siguientes:
+Necesitábamos distinguir entre usuarios cuya actividad principal es buscar viajes y usuarios que suelen publicar viajes (como las agencias), por lo que las tareas que se pueden realizar en la aplicación y los usuarios que pueden realizarlas son:
 
 |                                    | Usuario no identificado | Usuario identificado | Usuario verificado | Administrador |
 | ---------------------------------- | :---------------------: | :------------------: | :----------------: | :-----------: |
@@ -122,6 +128,13 @@ Necesitábamos distinguir entre usuarios cuya actividad principal es buscar viaj
 | Participar en foros                |                         |          A           |         A          |               |
 | Moderar foros                      |                         |                      |                    |       M       |
 
+Por tanto, tenemos cuatro tipos de usuario en la aplicación:
+
++ Un **usuario sin identificar** que entra a la aplicación para ver viajes.
++ Un **usuario identificado** que suele buscar viajes, publica alguno de vez en cuando y participa en foros.
++ Un **usuario verificado** que se dedica a publicar viajes y promocionarlos.
++ El **administrador** de la aplicación, encargado de moderar la aplicación.
+
 
 
 ### Mapa del sitio y etiquetado
@@ -132,33 +145,33 @@ Con todas estas posibles acciones que puede hacer el usuario, diseñamos el conc
 
 
 
-| Término                                   | Significado                                                  |
-| ----------------------------------------- | ------------------------------------------------------------ |
-| Inicio                                    | Página inicial y central de la aplicación; muestra el *muro* |
-| Iniciar sesión                            | Introducir datos de usuario para entrar en la aplicación     |
-| Registro                                  | Formulario para el ingreso de un nuevo usuario               |
-| Muro                                      | Conjunto de mensajes que escriben los usuarios               |
-| Publicar mensaje                          | Formulario para escribir un nuevo mensaje en el muro         |
-| Búsqueda                                  | Búsqueda del contenido de la aplicación (viajes y perfiles)  |
-| Resultados                                | Resultados de la búsqueda de contenido (viajes y perfiles)   |
-| Foros                                     | Conjunto de mensajes sobre temas de interés                  |
-| Página del foro                           | Mensajes, dudas y opiniones de los usuarios sobre el tema de interés |
-| Publicar mensaje en el foro               | Formulario para escribir un nuevo mensaje en el foro         |
-| Perfil                                    | Información de un usuario                                    |
-| Editar perfil                             | Edición de la información de un usuario                      |
-| Mensajes                                  | Conjunto de conversaciones en las que participa un usuario   |
-| Chat                                      | Conversación en la que participa un usuario                  |
-| Notificaciones del muro y de foros        | Avisos sobre nuevos mensajes                                 |
-| Viaje                                     | Página descriptiva de un viaje publicado                     |
-| <img src="img/home.svg" width="30">       | Icono relacionado con la página *Inicio*                     |
-| <img src="img/search.svg" width="30">     | Icono relacionado con la página *Búsqueda* y la acción de buscar resultados |
-| <img src="img/user.svg" width="30">       | Icono relacionado con la página *Perfil*                     |
-| <img src="img/mail.svg" width="30">       | Icono relacionado con la página *Mensajes*                   |
-| <img src="img/blog.svg" width="30">       | Icono relacionado con la publicación de mensajes, tanto en el *muro* como en el *foro* |
-| <img src="img/plus.svg" width="30">       | Icono relacionado con la publicación de un nuevo *viaje*     |
-| <img src="img/edit.svg" width="30">       | Icono relacionado con la *edición* de una página, ya sea el *perfil* o un *viaje* |
-| <img src="img/plusperson.svg" width="30"> | Icono relacionado con la inscripción a un *viaje*            |
-| <img src="img/arrow.svg" width="30">      | Icono relacionado con el *envío* de un mensaje               |
+| Término                                      | Significado                                                  |
+| -------------------------------------------- | ------------------------------------------------------------ |
+| Inicio                                       | Página inicial y central de la aplicación; muestra el *muro* |
+| Iniciar sesión                               | Introducir datos de usuario para entrar en la aplicación     |
+| Registro                                     | Formulario para el ingreso de un nuevo usuario               |
+| Muro                                         | Conjunto de mensajes que escriben los usuarios               |
+| Publicar mensaje                             | Formulario para escribir un nuevo mensaje en el muro         |
+| Búsqueda                                     | Búsqueda del contenido de la aplicación (viajes y perfiles)  |
+| Resultados                                   | Resultados de la búsqueda de contenido (viajes y perfiles)   |
+| Foros                                        | Conjunto de mensajes sobre temas de interés                  |
+| Página del foro                              | Mensajes, dudas y opiniones de los usuarios sobre el tema de interés |
+| Publicar mensaje en el foro                  | Formulario para escribir un nuevo mensaje en el foro         |
+| Perfil                                       | Información de un usuario                                    |
+| Editar perfil                                | Edición de la información de un usuario                      |
+| Mensajes                                     | Conjunto de conversaciones en las que participa un usuario   |
+| Chat                                         | Conversación en la que participa un usuario                  |
+| Notificaciones del muro y de foros           | Avisos sobre nuevos mensajes                                 |
+| Viaje                                        | Página descriptiva de un viaje publicado                     |
+| <img src="../img/home.svg" width="30">       | Icono relacionado con la página *Inicio*                     |
+| <img src="../img/search.svg" width="30">     | Icono relacionado con la página *Búsqueda* y la acción de buscar resultados |
+| <img src="../img/user.svg" width="30">       | Icono relacionado con la página *Perfil*                     |
+| <img src="../img/mail.svg" width="30">       | Icono relacionado con la página *Mensajes*                   |
+| <img src="../img/blog.svg" width="30">       | Icono relacionado con la publicación de mensajes, tanto en el *muro* como en el *foro* |
+| <img src="../img/plus.svg" width="30">       | Icono relacionado con la publicación de un nuevo *viaje*     |
+| <img src="../img/edit.svg" width="30">       | Icono relacionado con la *edición* de una página, ya sea el *perfil* o un *viaje* |
+| <img src="../img/plusperson.svg" width="30"> | Icono relacionado con la inscripción a un *viaje*            |
+| <img src="../img/arrow.svg" width="30">      | Icono relacionado con el *envío* de un mensaje               |
 
 
 
