@@ -215,11 +215,34 @@ La nueva imagen corporativa que proponemos para Nomadizers ha sido elaborada uti
 
 ![](../img/Logos/guia_estilo.png)
 
+Se utiliza la tipografía Univers debido a sus formas legibles y modernas. Para los iconos, se ha decidido representar los distintos elementos clave de la aplicación con formas geométricas, utilizando los diferentes colores corporativos. 
+
+Para la paleta de colores, se han escogido tonalidades poco saturadas de rojo, azul y verde, en contraste con blanco puro y una tonalidad de azul muy oscura.
 
 
 
 
 ## Propuesta de elementos de diseño o patrones a usar 
+
+Se ha investigado acerca del sistema de diseño Material Design, descrito en [](material.io)., para su posible implementación en la app *Nomadizers*.
+
+Se trata de un lenguaje de diseño que destaca por su estudio de los materiales, cómo interactúan entre ellos y cómo comparten un espacio físico y pueden ser apilados, proyectar sombras y presentar profundidad.
+
+El lenguaje Material Design es fácil de implementar, y presenta mucha flexibilidad. Además, es idóneo para aplicaciones móviles y web, y pemite expresar la nueva imagen de marca con mayor personalidad, integrándola en el diseño.
+
+Una de las principales características de Material Design es cómo todos los elementos de la interfaz de usuario son definidos como **sólidos**. Algunas de sus propiedades son las siguientes:
+
+- No puede haber dos elementos al mismo nivel ocupando el mismo espacio.
+- Los elementos pueden **apilarse** y colocarse en diferentes capas.
+- La interacción del usuario con un elemento no lo atraviesa.
+- Los elementos pueden dividirse y recombinarse.
+- Los elementos pueden cambiar su forma.
+- Los elementos pueden cambiar de opacidad, ya sea uniformemente o de forma parcial.
+- Los elementos pueden ampliarse y reducirse únicamente en el plano en el que están contenidos, nunca doblarse o extruirse en profundidad.
+- Los elementos pueden moverse de forma tridimensional. Esto suele ser el resultado de entrada de usuario.
+- Todas las superficies tienen como profundidad fija 1dp.
+
+
 
 
 
