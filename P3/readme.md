@@ -211,7 +211,9 @@ Y los logos nuevos aquí:
 
 ### Guía de estilo
 
+La nueva imagen corporativa que proponemos para Nomadizers ha sido elaborada utilizando Adobe Illustrator CC. 
 
+![](../img/Logos/guia_estilo.png)
 
 
 
