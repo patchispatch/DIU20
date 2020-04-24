@@ -6,7 +6,7 @@ Proyecto: DIU1.Mmm
 
 Descripción: Mmm.
 
-Logotipo:
+Logotipo: <img src="img/Mmm/Mmm fondo negro.png" width="80">
 
 Miembros
  * :bust_in_silhouette:   Ana María Romero Delgado     :octocat:     
@@ -286,13 +286,11 @@ Para actualizar la imagen de la aplicación a las nuevas líneas de diseño, exp
 
 Podemos observar el logo antiguo aquí:
 
-![](img/Logos/nomadizers.jpg)
+<img src="P3/Logos/nomadizers.jpg" width="500">
 
-Y los logos nuevos aquí:
+<img src="P3/Logos/logo_a.png" width="500">
 
-![](img/Logos/logo_a.png)
-
-![](img/Logos/logo_c.png)
+<img src="P3/Logos/logo_c.png" width="500">
 
 
 
@@ -300,7 +298,7 @@ Y los logos nuevos aquí:
 
 La nueva imagen corporativa que proponemos para Nomadizers ha sido elaborada utilizando Adobe Illustrator CC. 
 
-![](img/Logos/guia_estilo.png)
+![](P3/Logos/guia_estilo.png)
 
 Se utiliza la tipografía Univers debido a sus formas legibles y modernas. Para los iconos, se ha decidido representar los distintos elementos clave de la aplicación con formas geométricas, utilizando los diferentes colores corporativos. 
 
