@@ -286,11 +286,11 @@ Para actualizar la imagen de la aplicación a las nuevas líneas de diseño, exp
 
 Podemos observar el logo antiguo aquí:
 
-<img src="P3/Logos/nomadizers.jpg" width="500">
+![](P3/Logos/nomadizers.jpg)
 
-<img src="P3/Logos/logo_a.png" width="500">
+![](P3/Logos/logo_a.png)
 
-<img src="P3/Logos/logo_c.png" width="500">
+![](P3/Logos/logo_c.png)
 
 
 
