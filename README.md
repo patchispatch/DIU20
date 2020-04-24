@@ -23,47 +23,112 @@ Qué es economía colaborativa: Martínez-Polo, J. (2019). **El fenómeno del co
 
 # Proceso de Diseño 
 
+
+
+### Introducción
+
+¿Deseas tener nuevas experiencias de viaje y conocer gente nueva afín con tus gustos? ¿Quieres dirigirte a un sitio en concreto y buscas opiniones sobre otras personas? ¿Te gustaría organizar un tour por una ciudad para disfrutar de una actividad en concreto pero no te gustaría hacerlo solo?
+
+Hemos creado esta aplicación con el fin de dar una opción rápida y sencilla para satisfacer estas preguntas sobre viajes y experiencias.
+
+
+
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres).
-
 Las aplicaciones asignadas son de viajes basados en economía colaborativa. La finalidad de estos viajes puede ser únicamente de transporte como de experiencias. 
 
-Hemos elegido Nomadizers por el concepto que tiene de las experiencias y porque consideramos que puede mejorar su experiencia de usuario.
+
+
+### Estudio de mercado
+
+Recopilamos una serie de necesidades básicas que pueden tener nuestros usuarios objetivo, tales como:
+
++ Los usuarios buscan viajes con el fin de pasar su tiempo libre, por trabajo o por necesidad.
++ Los usuarios comparten sus experiencias y opiniones sobre destinos, alojamientos, y más información útil para otros usuarios.
++ Los usuarios crean viajes y tours sobre una actividad en concreto para disfrutarlos con otras personas.
+
+
+
+### Análisis competitivo
+
+Decidimos probar distintas páginas de viajes para ver cómo representaban los viajes y cómo de importante era la componente social. Al final elegimos centrarnos en la web Nomadizers por lo original que es su concepto de "experiencia de viaje" (el destino no es lo importante, es la experiencia con la gente que te acompaña).
+
+Al usar la página web observamos que:
+
++ Toda la página y en especial el formulario de creación de viajes no son sencillos, rápidos e intuitivos.
++ Tiene mucho aspecto comunitario.
++ Las recomendaciones personalizadas están poco visibles entre anuncios de otros sitios web.
++ No hay guía de ayuda ni tutorial.
++ El lenguaje y la terminología son adecuados.
++ No se puede compartir contenido por redes sociales.
++ Se hace énfasis en compartir experiencias con otras personas, no en el viajar a un destino.
++ Se usan foros, pero no están bien organizados.
+
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres).
+Creamos dos personas para identificar las metas y los puntos de dolor de nuestros usuarios objetivo. Ambos tienen perfiles que encajan como usuarios de la página, con contextos, edades y necesidades distintas.
 
-Son dos personas con perfiles que encajan como usuarios de la página, con contextos, edades diversas y necesidades distintas.
+
+
+Nuestra primera persona, **Fajardo Poyatos Menéndez**, es un periodista freelance reacio a la tecnología y apasionado del arte:
 
 ![](P1/Fajardo_UserPersona.png)
 
+
+
+Y nuestra segunda persona, **Toph Bei Fong**, es una estudiante de cocina un poco tímida que adora el flamenco:
+
 ![](P1/Toph_UserPersona.png)
+
+
+
+### Objetivos de los usuarios
+
+Identificamos los objetivos de los usuarios basándonos en las dos personas que hemos creado:
+
++ Los usuarios quieren una aplicación fácil y rápida de usar, que además sea intuitiva, para no perder el tiempo ni frustrarse al realizar la tarea que quieren llevar a cabo.
++ Los usuarios quieren interaccionar con otros usuarios de la aplicación para poder realizar viajes juntos.
++ Los usuarios quieren ver y escribir reseñas, experiencias y opiniones de sus viajes.
+
+
+
+### Puntos de dolor de los usuarios
+
+También identificamos los puntos de dolor de los usuarios, basándonos también en las dos personas que hemos creado:
+
++ Los usuarios no quieren distraerse de su tarea principal.
++ La comunicación con los interesados en un viaje debe ser simple y eficaz.
++ Algunos usuarios necesitan ayuda adicional para usar la página.
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres).
-
 Es común que gente reacia a la tecnología tenga problemas sin una buena experiencia de usuario. Aun así, una buena experiencia de usuario es útil.
+
+
+
+Fajardo quiere buscar un viaje barato al norte de España para poder inspirarse y redactar su artículo relacionado con la Costa Cantábrica:
 
 ![](P1/Fajardo_JourneyMap.png)
 
+
+
+Toph quiere conocer más sobre la historia de Camarón, y busca una ruta por San Fernando:
+
 ![](P1/Toph_JourneyMap.png)
+
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referencia y verifica puntos de verificación de  usabilidad).
->>>> Se deben incluir claramente los siguientes elementos:
->>> - Ruta del documento:
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres).
-
 La revisión de usabilidad se encuentra en P1/usability review.xlsx
 
 Valoración numérica: 49 puntos.
@@ -83,23 +148,20 @@ La aplicación deja mucho que desear, a cada función que probábamos encontráb
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusión de la práctica anterior:
+Como conclusión al uso de la página Nomadizers, creamos este diagrama con los aspectos más destacados:
 
 ![](P2/Mallareceptoradeinformacion.png)
 
-> > > ¿Qué planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa? (150-200 caracteres).
-
-Reforzar la parte "social" de la aplicación, simplificar las secciones para que el acceso sea más intuitivo y fácil, y añadir distintos perfiles de usuario.
+Partiendo de la página web, proponemos *simplificar en secciones* las tareas que puedes hacer en la página (viajes, personas y publicación), introducir el concepto de *usuario verificado* para poner en mejor lugar a las agencias de viajes, un *chat integrado* para mejorar la comunicación y mejorar más aún el *aspecto social* de la web con foros y mensajes.
 
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-> > > Definir "User Map" y "Task Flow".
+Necesitábamos distinguir entre usuarios cuya actividad principal es buscar viajes y usuarios que suelen publicar viajes (como las agencias), por lo que las tareas que se pueden realizar en la aplicación y los usuarios que pueden realizarlas son:
 
-**Matriz de Tareas y Usuarios**:
+### Matriz de Tareas y Usuarios
 
 |                                    | Usuario no identificado | Usuario identificado | Usuario verificado | Administrador |
 | ---------------------------------- | :---------------------: | :------------------: | :----------------: | :-----------: |
@@ -124,9 +186,18 @@ Reforzar la parte "social" de la aplicación, simplificar las secciones para que
 | Participar en foros                |                         |          A           |         A          |               |
 | Moderar foros                      |                         |                      |                    |       M       |
 
+Por tanto, tenemos cuatro tipos de usuario en la aplicación:
+
++ Un **usuario sin identificar** que entra a la aplicación para ver viajes.
++ Un **usuario identificado** que suele buscar viajes, publica alguno de vez en cuando y participa en foros.
++ Un **usuario verificado** que se dedica a publicar viajes y promocionarlos.
++ El **administrador** de la aplicación, encargado de moderar la aplicación.
 
 
-**Sitemap**:
+
+### Sitemap
+
+Con todas estas posibles acciones que puede hacer el usuario, diseñamos el concepto de la aplicación y sus páginas:
 
 ![](P2/mapadelsitio.png)
 
@@ -134,10 +205,9 @@ Reforzar la parte "social" de la aplicación, simplificar las secciones para que
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+### Etiquetado
 
->>> Identificar términos para diálogo con usuario.
-
-**Etiquetado**:
+Este es el significado de cada término utilizado en el sitemap:
 
 | Término                                   | Significado                                                  |
 | ----------------------------------------- | ------------------------------------------------------------ |
@@ -173,9 +243,9 @@ Reforzar la parte "social" de la aplicación, simplificar las secciones para que
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el diseño del layout para Web/móvil (organización y simulación). 
+### Bocetos Lo-Fi
 
-**Bocetos Lo-Fi**: Estas son las distintas pantallas de la interfaz de la aplicación.
+Estas son las distintas pantallas de la interfaz de la aplicación.
 
 | Inicio                             | Búsqueda                          | Notificaciones                     |
 | ---------------------------------- | --------------------------------- | ---------------------------------- |
@@ -205,73 +275,63 @@ Reforzar la parte "social" de la aplicación, simplificar las secciones para que
 
 Tras leer y analizar el UX Case Study de MuseMap, hemos visto una serie de procedimientos y  técnicas que pueden ser utilizadas para lograr encontrar la finalidad y los detalles de una aplicación a través del diseño, y transmitirlos al equipo de desarrollo, al usuario final o a los clientes y *stakeholders*. 
 
-En primer lugar, aclaran la duración del *sprint* en el que van a realizar este trabajo y los objetivos que pretenden cumplir, basándose en las peticiones del cliente. También destacan las oportunidades que les brinda esta serie de necesidades a cubrir, como la posibilidad de intergrar un mapa interactivo, o procesos de gamificación. 
-
-**Brainstorming y planteamiento inicial**
-
-Dada la información, asumimos que se están utilizando metodologías de trabajo ágiles, centradas en el usuario. Para poder acotar las necesidades del usuario y las soluciones propuestas a las mismas, se ha de realizar un estudio previo sobre el mismo. En el caso de MuseMap, el equipo realiza primero un *brainstorming* sobre su preconcepción del usuario potencial de la aplicación, para desspués investigar cómo se relaciona la gente de su entorno (la ciudad de Londres) con el arte urbano. 
-
-**Estudio de características en aplicaciones similares**
-
-A partir de esta información, elaboran una comparativa de soluciones similares actuales para ver qué aportan, de qué carecen y, en esencia, qué es lo que necesita MuseMap para destacar y mejorar la experiencia de los usuarios objetivo en base a las características observadas.
-
-**Entrevista con potenciales usuarios**
-
-Basándose en la observación y asunciones antes tomadas por el equipo, que aún no ha realizado un estudio de usuarios real, elabora un mapa de empatía para ayudarles en el proceso de entrevistas a usuarios potenciales.
-
-Tras realizar las correspondientes entrevistas, el equipo de desarrollo plasmó las respuestas en un mapa de afinidad, extrayendo en común los puntos clave y descubrimientos realizados. Estos descubrimientos les son de utilidad a la hora de realizar el siguiente paso: el diseño basado en escenarios.
-
-**Diseño basado en escenarios**
-
-Para identificar mejor las necesidades y conflictos de los potenciales usuarios de la aplicación, se plantean dos personas de usuario diferentes, cada una representando a un sector diferencial del público objetivo: aquel que busca arte urbano de forma intencionada, y aquel que no. De esta forma, pueden modelar la aplicación teniendo en cuenta el mayor número de intereses posible.
-
-Tras elaborar estas personas de usuario, estudian las frustraciones y problemas a solucionar a través de un *Journey Map* y un *Experience Map*, que describen la situación emocional de cada persona con respecto a las acciones representadas.
-
-Se elaboran **escenarios** en los que los usuarios harían uso de la aplicación para describir su interacción con la misma, y así encontrar la necesidad general a resolver.
-A partir de este punto, el equipo comienza a plantearse cómo hacerlo, planteando hipótesis sobre ello.
-
-**Modelo de interacción**
-Para comenzar con el proceso de diseño, se plantea un diagrama de flujo que representa la interacción del usuario con la aplicación, para identificar una posible estructura.
-
-**Wireframes**
-Tras identificar posibles páginas, el equipo de diseño se reúne para elaborar bocetos simples y poner en común la visión sobre la aplicación.
-
-Para establecer la prioridad de los elementos de la aplicación, utilizan una plantilla de matriz 2x2, clasificando entre aspectos esenciales y añadidos en un eje, y el esfuerzo necesario para llevarlos a cabo. Sobre estas ideas, el equipo decide priorizar sobre las que considera esenciales, y crea los primeros wireframes a papel.
-
-**Test de usabilidad con el primer prototipo**
-
-Tras elaborar un prototipo de uso con los primeros wireframes, el equipo detecta problemas de interacción con los conceptos que han planteado, por lo que decide cambiar de enfoque de cara a una segunda iteración.
-
-**Segunda iteración del primer prototipo**
-El enfoque de la aplicación cambia sustancialmente, aunque mantiene las ideas recogidas en el estudio de usuarios. Ahora plantea un mapa interactivo y recomendaciones para tomar fotos y realizar visitas.
-
-**Wireframes de alta fidelidad**
-Una vez definidos los wireframes a papel y consolidado la idea sobre la aplicación, se producen los wireframes de alta fidelidad, para consolidar aún más la idea sobre la estructura de la aplicación. Además, se define un flujo de interacción.
-
-No obstante, aún existen problemas, esta vez menores, a la hora de realizar el test de usabilidad.
-
-**Evolución**
-Para ilustrar la evolución del diseño, utilizan una de las páginas y muestran su evolución a traves de las diferentes iteraciones de diseño, hasta llegar al *mockup* final.
-
-**Sitemap**
-Para mostrar el funcionamiento de la aplicación y las diferentes páginas, exponen el sitemap con imágenes del *mockup* final.
-
-**Guía de estilo**
-También muestran la guía de estilo definida para la aplicación y los motivos para ello, acompañada de los *mockups* finales.
-
-**Próximos pasos**
-Finalmente, el equipo de desarrollo expone los próximos pasos a tomar en el desarrollo de la aplicación.
+Para más desarrollo, ir [aquí](P3).
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+### Logotipo
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para actualizar la imagen de la aplicación a las nuevas líneas de diseño, expuestas con más detalle en el punto **Guía de Estilo**, se ha optado por un diseño más sobrio a la vez que colorido. Esto a su vez ayuda a identificar la marca en formatos más pequeños, como las pantallas de dispositivos móviles o el icono identificativo de la app.
+
+Podemos observar el logo antiguo aquí:
+
+![](img/Logos/nomadizers.jpg)
+
+Y los logos nuevos aquí:
+
+![](img/Logos/logo_a.png)
+
+![](img/Logos/logo_c.png)
+
+
+
+### Guía de estilo
+
+La nueva imagen corporativa que proponemos para Nomadizers ha sido elaborada utilizando Adobe Illustrator CC. 
+
+![](img/Logos/guia_estilo.png)
+
+Se utiliza la tipografía Univers debido a sus formas legibles y modernas. Para los iconos, se ha decidido representar los distintos elementos clave de la aplicación con formas geométricas, utilizando los diferentes colores corporativos. 
+
+Para la paleta de colores, se han escogido tonalidades poco saturadas de rojo, azul y verde, en contraste con blanco puro y una tonalidad de azul muy oscura.
+
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las decisiones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+#### Propuesta de elementos de diseño o patrones a usar 
+
+Se ha investigado acerca del sistema de diseño Material Design, descrito en [material.io](material.io), para su posible implementación en la app *Nomadizers*.
+
+Se trata de un lenguaje de diseño que destaca por su estudio de los materiales, cómo interactúan entre ellos y cómo comparten un espacio físico y pueden ser apilados, proyectar sombras y presentar profundidad.
+
+El lenguaje Material Design es fácil de implementar, y presenta mucha flexibilidad. Además, es idóneo para aplicaciones móviles y web, y pemite expresar la nueva imagen de marca con mayor personalidad, integrándola en el diseño.
+
+Una de las principales características de Material Design es cómo todos los elementos de la interfaz de usuario son definidos como **sólidos**. Algunas de sus propiedades son las siguientes:
+
+- No puede haber dos elementos al mismo nivel ocupando el mismo espacio.
+- Los elementos pueden **apilarse** y colocarse en diferentes capas.
+- La interacción del usuario con un elemento no lo atraviesa.
+- Los elementos pueden dividirse y recombinarse.
+- Los elementos pueden cambiar su forma.
+- Los elementos pueden cambiar de opacidad, ya sea uniformemente o de forma parcial.
+- Los elementos pueden ampliarse y reducirse únicamente en el plano en el que están contenidos, nunca doblarse o extruirse en profundidad.
+- Los elementos pueden moverse de forma tridimensional. Esto suele ser el resultado de entrada de usuario.
+- Todas las superficies tienen como profundidad fija 1dp.
+
+
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
