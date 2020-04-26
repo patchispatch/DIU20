@@ -92,3 +92,8 @@ Una de las principales características de Material Design es cómo todos los el
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
+La historia de MuseMap nos ha servido de ayuda para ver lo que es un UX Case Study (proceso que recorre un producto para alcanzar la satisfacción de un usuario). Nos ha enseñado un ejemplo de cómo hay que estructurar y contar una historia de un producto, y hemos usado lo aprendido para ampliar la información de nuestro documento.
+
+Hemos presentado mejor a nuestras personas (para que sean algo más cercano que un gráfico con descripciones), hemos hecho un análisis previo más amplio de la página *Nomadizers* (para introducir la historia y que ese entiendan los pasos dados para mejorar la página), y hemos añadido una pequeña conclusión después de cada paso para reflexionar sobre lo trabajado.
+
+En conclusión, el UX Case Study es una herramienta bastante útil para saber cómo se ha desarrollado el proyecto, cómo se han enfrentado los distintos desafíos que han aparecido y cómo se ha podido mejorar el trabajo previamente hecho al sacar conclusiones conforme se iba avanzando.
