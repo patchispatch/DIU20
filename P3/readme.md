@@ -87,6 +87,8 @@ Una de las principales características de Material Design es cómo todos los el
 
 ## Historia en Video del UX Case Study
 
+El vídeo que resume el diseño de nuestro producto está en este [enlace](https://youtu.be/dOXv44cuGog).
+
 
 
 
