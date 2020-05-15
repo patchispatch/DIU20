@@ -2,41 +2,41 @@
 
 ## Caso 1
 
-Nombre del equipo:  **DIU1.ODAKACI** ([web](https://github.com/cmartin-moreno/DIU20))
+<u>Nombre del equipo</u>:  **DIU1.ODAKACI** ([web](https://github.com/cmartin-moreno/DIU20))
 
-Descripción:
+<u>Descripción</u>:
 
 > Intención del equipo y describir el producto que ha hecho.
 
-Hoja de valoración: [link](UXCaseStudy-review_DIU1ODAKACI.xls)
+<u>Hoja de valoración</u>: [link](UXCaseStudy-review_DIU1ODAKACI.xls)
 
-Valoración:
+<u>Valoración</u>:
 
 
 ## Caso 2
 
-Nombre del equipo:  **DIU2.Ortega-Y-Gasset** ([web](https://github.com/romanlarrosa/DIU20))
+<u>Nombre del equipo</u>:  **DIU2.Ortega-Y-Gasset** ([web](https://github.com/romanlarrosa/DIU20))
 
-Descripción:
+<u>Descripción</u>:
 
 > Intención del equipo y describir el producto que ha hecho.
 
-Hoja de valoración: [link](UXCaseStudy-review_DIU2OrtegaYGasset.xls)
+<u>Hoja de valoración</u>: [link](UXCaseStudy-review_DIU2OrtegaYGasset.xls)
 
-Valoración:
+<u>Valoración</u>:
 
 
 ## Caso 3
 
-Nombre del equipo:  **DIU3.Manduka** ([web](https://github.com/alexhzr/diumanduka))
+<u>Nombre del equipo</u>:  **DIU3.Manduka** ([web](https://github.com/alexhzr/diumanduka))
 
-Descripción:
+<u>Descripción</u>: Aplicación para compartir cenas o cursos de comida. Se hace mucho incapié en que es similar a un "Air-BnB de comida". En ella se puede 
 
-> Intención del equipo y describir el producto que ha hecho.
+<u>Hoja de valoración</u>: [link](UXCaseStudy-review_DIU3Manduka.xls) 
+La puntuación ha sido 70% (bueno).
 
-Hoja de valoración: [link](UXCaseStudy-review_DIU3Manduka.xls)
-
-Valoración:
+<u>Valoración</u>: 
+La aplicación ha sido desarrollada correctamente, pero se ha dejado muy de lado la documentación del proceso (muchos *readme* están sin rellenar, y no se encuentra toda la información fácilmente).
 
 ## User Testing
 
