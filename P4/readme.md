@@ -17,13 +17,13 @@ El README principal es escueto en muchos aspectos, y recae demasiado en las capt
 
 <u>Nombre del equipo</u>:  **DIU2.Ortega-Y-Gasset** ([web](https://github.com/romanlarrosa/DIU20))
 
-<u>Descripción</u>:
-
-> Intención del equipo y describir el producto que ha hecho.
+<u>Descripción</u>: aplicación de compartir piso Sharee, que parte de las funcionalidades de Badi y pretende mejorar la experiencia de compartir alojamiento.
 
 <u>Hoja de valoración</u>: [link](UXCaseStudy-review_DIU2OrtegaYGasset.xls)
+La puntuación ha sido 90 (excelente).
 
 <u>Valoración</u>:
+Todo está muy bien detallado y se entiende claramente la intención del grupo de desarrollo en todo momento. La presentación de las ideas es coherente y el proceso de diseño se ha descrito correctamente.
 
 
 ## Caso 3
