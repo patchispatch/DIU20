@@ -40,19 +40,23 @@ La aplicación ha sido desarrollada correctamente, pero se ha dejado muy de lado
 
 ## User Testing
 
-A continuación se describe la experiencia de nuestra persona ***nombre de la persona elegida*** en cada uno de los casos anteriores:
+A continuación se describe la experiencia de nuestra persona ***Fajardo Poyatos Menéndez*** en cada uno de los casos anteriores:
 
 #### En el caso 1:
 
-> Aquí va la experiencia 1
+Fajardo necesita un nuevo enfoque para uno de sus artículos, y buscando en internet se ha topado con la aplicación Miss Travel. La propuesta le ha parecido interesante, y ha pensado que compartir un viaje de forma más personal podría ser interesante. 
+
+Fajardo se registra en la página web, que le resulta más familiar que una aplicación móvil dado su limitado uso de la tecnología, y ve una estructura clara en la web para navegar. Le cuesta encontrar el formualrio de buscar viaje, y finalmente se da por vencido, buscando alternativas para su nuevo artículo.
 
 #### En el caso 2:
 
-> Aquí va la experiencia 2
+Fajardo va a realizar un reportaje sobre la provenza, concretamente Marsella y sus museos de arte urbano. Para profundizar más, ha decidido buscar alojamiento en la ciudad, y dado que los hoteles suponen una opción más cara, decide utilizar una app. Descubre Sharee, y decide registrarse desde la web. 
+
+Accede al buscador, e introduce Marsella. Aparecen varios resultados, y se fija en el primero de ellos. Le gusta el piso, pero quiere buscar algo más barato, así que guarda la consulta en favoritos para poder consultarlo luego si es necesario. 
 
 #### En el caso 3:
 
-> Aquí va la experiencia 3
+
 
 ## Conclusiones
 
