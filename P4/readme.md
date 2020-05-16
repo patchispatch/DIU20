@@ -4,13 +4,13 @@
 
 <u>Nombre del equipo</u>:  **DIU1.ODAKACI** ([web](https://github.com/cmartin-moreno/DIU20))
 
-<u>Descripción</u>:
-
-> Intención del equipo y describir el producto que ha hecho.
+<u>Descripción</u>: aplicación de citas y viajes **Miss Travel**, en la que una persona propone el viaje y se ofrece a pagarlo a la otra persona. Según el equipo, han elegido la aplicación debido a que mezcla dos temáticas diferentes.
 
 <u>Hoja de valoración</u>: [link](UXCaseStudy-review_DIU1ODAKACI.xls)
+La puntuación ha sido 82 (bueno).
 
 <u>Valoración</u>:
+El README principal es escueto en muchos aspectos, y recae demasiado en las capturas de pantalla para explicarse. Además, no se puede acceder a la carpeta de los Wireframes, pero en el vídeo se detalla todo el proceso de forma completa y se pueden observar. En general, se entiende bien el proceso de desarrollo.
 
 
 ## Caso 2
@@ -30,7 +30,7 @@
 
 <u>Nombre del equipo</u>:  **DIU3.Manduka** ([web](https://github.com/alexhzr/diumanduka))
 
-<u>Descripción</u>: Aplicación para compartir cenas o cursos de comida. Se hace mucho incapié en que es similar a un "Air-BnB de comida". En ella se puede 
+<u>Descripción</u>: Aplicación para compartir cenas o cursos de comida. Se hace mucho hincapié en que es similar a un "Air-BnB de comida". En ella se puede 
 
 <u>Hoja de valoración</u>: [link](UXCaseStudy-review_DIU3Manduka.xls) 
 La puntuación ha sido 70% (bueno).
