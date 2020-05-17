@@ -50,13 +50,15 @@ Fajardo se registra en la página web, que le resulta más familiar que una apli
 
 #### En el caso 2:
 
-Fajardo va a realizar un reportaje sobre la provenza, concretamente Marsella y sus museos de arte urbano. Para profundizar más, ha decidido buscar alojamiento en la ciudad, y dado que los hoteles suponen una opción más cara, decide utilizar una app. Descubre Sharee, y decide registrarse desde la web. 
+Fajardo va a realizar un reportaje sobre la provenza, concretamente Marsella y su arte urbano. Para profundizar más, ha decidido buscar alojamiento en la ciudad, y dado que los hoteles suponen una opción más cara, decide utilizar una app. Descubre Sharee, y decide registrarse desde la web. 
 
 Accede al buscador, e introduce Marsella. Aparecen varios resultados, y se fija en el primero de ellos. Le gusta el piso, pero quiere buscar algo más barato, así que guarda la consulta en favoritos para poder consultarlo luego si es necesario. 
 
 #### En el caso 3:
 
+Fajardo quiere añadir un toque gastronómico a su artículo sobre Marsella, ya que le ha parecido una parte importante de su experiencia allí, y le gustaría cenar con lugareños para degustar la comida casera de la zona. Su compañero de piso le ha recomendado la aplicación *comecon*,  ya que la ha utilizado alguna vez, y procede a acceder desde la web, el medio al que está más acostumbrado.
 
+Al entrar, decide registrarse, y es gratamente sorprendido por un tour que le guía por la aplicación. Además, la aplicación le consulta si reside actualmente en Marsella, a lo que Fajardo responde de forma afirmativa. Sigue paso a paso el tour y consigue contactar con una familia joven a pocas calles de su piso para cenar en un par de noches. 
 
 ## Conclusiones
 
