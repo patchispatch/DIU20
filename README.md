@@ -9,8 +9,8 @@ Descripción: Mmm.
 Logotipo: <img src="img/Mmm/Mmm fondo negro.png" width="80">
 
 Miembros
- * :bust_in_silhouette:   Ana María Romero Delgado     :octocat:     
- * :bust_in_silhouette:  Juan Ocaña Valenzuela     :octocat:
+ * :bust_in_silhouette:   Ana María Romero Delgado     :octocat: [patchispatch](https://github.com/patchispatch)
+ * :bust_in_silhouette:  Juan Ocaña Valenzuela     :octocat: [seikuseiku]()
 
 -----
 
@@ -347,48 +347,72 @@ El vídeo que resume el diseño de nuestro producto está en este [enlace](https
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
+#### Caso 1
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+<u>Nombre del equipo</u>:  **DIU1.ODAKACI** ([web](https://github.com/cmartin-moreno/DIU20))
 
->>>> En la sección P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+<u>Descripción</u>: aplicación de citas y viajes **Miss Travel**, en la que una persona propone el viaje y se ofrece a pagarlo a la otra persona. Según el equipo, han elegido la aplicación debido a que mezcla dos temáticas diferentes.
+
+#### Caso 2
+
+<u>Nombre del equipo</u>:  **DIU2.Ortega-Y-Gasset** ([web](https://github.com/romanlarrosa/DIU20))
+
+<u>Descripción</u>: aplicación de compartir piso Sharee, que parte de las funcionalidades de Badi y pretende mejorar la experiencia de compartir alojamiento.
+
+#### Caso 3
+
+<u>Nombre del equipo</u>:  **DIU3.Manduka** ([web](https://github.com/alexhzr/diumanduka))
+
+<u>Descripción</u>: aplicación para compartir cenas o cursos de comida Comecon. Se hace mucho hincapié en que es similar a un "Air-BnB de comida".
+
+Para más información sobre los casos, ir a la carpeta de la práctica 4: [link](P4).
+
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+A continuación se describe la experiencia de nuestra persona ***Fajardo Poyatos Menéndez*** en cada uno de los casos anteriores:
+
+#### En el caso 1:
+
+Fajardo necesita un nuevo enfoque para uno de sus artículos, y buscando en internet se ha topado con la aplicación Miss Travel. La propuesta le ha parecido interesante, y ha pensado que compartir un viaje de forma más personal podría ser interesante. 
+
+Fajardo se registra en la página web, que le resulta más familiar que una aplicación móvil dado su limitado uso de la tecnología, y ve una estructura clara en la web para navegar. Le cuesta encontrar el formualrio de buscar viaje, y finalmente se da por vencido, buscando alternativas para su nuevo artículo.
+
+#### En el caso 2:
+
+Fajardo va a realizar un reportaje sobre la provenza, concretamente Marsella y su arte urbano. Para profundizar más, ha decidido buscar alojamiento en la ciudad, y dado que los hoteles suponen una opción más cara, decide utilizar una app. Descubre Sharee, y decide registrarse desde la web. 
+
+Accede al buscador, e introduce Marsella. Aparecen varios resultados, y se fija en el primero de ellos. Le gusta el piso, pero quiere buscar algo más barato, así que guarda la consulta en favoritos para poder consultarlo luego si es necesario. 
+
+#### En el caso 3:
+
+Fajardo quiere añadir un toque gastronómico a su artículo sobre Marsella, ya que le ha parecido una parte importante de su experiencia allí, y le gustaría cenar con lugareños para degustar la comida casera de la zona. Su compañero de piso le ha recomendado la aplicación *comecon*,  ya que la ha utilizado alguna vez, y procede a acceder desde la web, el medio al que está más acostumbrado.
+
+Al entrar, decide registrarse, y es gratamente sorprendido por un tour que le guía por la aplicación. Además, la aplicación le consulta si reside actualmente en Marsella, a lo que Fajardo responde de forma afirmativa. Sigue paso a paso el tour y consigue contactar con una familia joven a pocas calles de su piso para cenar en un par de noches. 
 
 
 ![Método UX](img/Survey.png)4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+### Ranking
 
->>> Valoración personal 
+**1º** puesto con **90** puntos: **Sharee**, de DIU2.Ortega-Y-Gasset ([web](https://github.com/romanlarrosa/DIU20)).
 
+**2º** puesto con **82** puntos: **Miss Travel**, de DIU1.ODAKACI ([web](https://github.com/cmartin-moreno/DIU20)).
 
+**3º** puesto con **70** puntos: **Comecon**, de DIU3.Manduka ([web](https://github.com/alexhzr/diumanduka)).
 
-------
+### Valoración personal
 
+En general, los tres casos que hemos tenido que revisar han realizado todos los ítems de las prácticas, pero solo en el caso 2 está todo el proceso del producto bien documentado en los distintos *readme*. 
 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
+La historia del producto es muy importante para saber cómo se ha desarrollado el proyecto, y ayuda a identificar rápido los problemas que puede haber a la hora de que los usuarios usen la aplicación.
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
+En conclusión, el proceso de desarrollo de diseño siguiendo la metodología UX sirve de mucha ayuda para describir cómo el producto ha ido tomando forma, registrar todos los cambios de diseño y sacar conclusiones de qué puede mejorar el producto en cada paso.

@@ -30,10 +30,10 @@ Todo está muy bien detallado y se entiende claramente la intención del grupo d
 
 <u>Nombre del equipo</u>:  **DIU3.Manduka** ([web](https://github.com/alexhzr/diumanduka))
 
-<u>Descripción</u>: Aplicación para compartir cenas o cursos de comida. Se hace mucho hincapié en que es similar a un "Air-BnB de comida". En ella se puede 
+<u>Descripción</u>: aplicación para compartir cenas o cursos de comida Comecon. Se hace mucho hincapié en que es similar a un "Air-BnB de comida".
 
 <u>Hoja de valoración</u>: [link](UXCaseStudy-review_DIU3Manduka.xls) 
-La puntuación ha sido 70% (bueno).
+La puntuación ha sido 70 (bueno).
 
 <u>Valoración</u>: 
 La aplicación ha sido desarrollada correctamente, pero se ha dejado muy de lado la documentación del proceso (muchos *readme* están sin rellenar, y no se encuentra toda la información fácilmente).
@@ -46,7 +46,7 @@ A continuación se describe la experiencia de nuestra persona ***Fajardo Poyatos
 
 Fajardo necesita un nuevo enfoque para uno de sus artículos, y buscando en internet se ha topado con la aplicación Miss Travel. La propuesta le ha parecido interesante, y ha pensado que compartir un viaje de forma más personal podría ser interesante. 
 
-Fajardo se registra en la página web, que le resulta más familiar que una aplicación móvil dado su limitado uso de la tecnología, y ve una estructura clara en la web para navegar. Le cuesta encontrar el formualrio de buscar viaje, y finalmente se da por vencido, buscando alternativas para su nuevo artículo.
+Fajardo se registra en la página web, que le resulta más familiar que una aplicación móvil dado su limitado uso de la tecnología, y ve una estructura clara en la web para navegar. Le cuesta encontrar el formulario de buscar viaje, y finalmente se da por vencido, buscando alternativas para su nuevo artículo.
 
 #### En el caso 2:
 
@@ -56,14 +56,20 @@ Accede al buscador, e introduce Marsella. Aparecen varios resultados, y se fija 
 
 #### En el caso 3:
 
-Fajardo quiere añadir un toque gastronómico a su artículo sobre Marsella, ya que le ha parecido una parte importante de su experiencia allí, y le gustaría cenar con lugareños para degustar la comida casera de la zona. Su compañero de piso le ha recomendado la aplicación *comecon*,  ya que la ha utilizado alguna vez, y procede a acceder desde la web, el medio al que está más acostumbrado.
+Fajardo quiere añadir un toque gastronómico a su artículo sobre Marsella, ya que le ha parecido una parte importante de su experiencia allí, y le gustaría cenar con lugareños para degustar la comida casera de la zona. Su compañero de piso le ha recomendado la aplicación *Comecon*,  ya que la ha utilizado alguna vez, y procede a acceder desde la web, el medio al que está más acostumbrado.
 
 Al entrar, decide registrarse, y es gratamente sorprendido por un tour que le guía por la aplicación. Además, la aplicación le consulta si reside actualmente en Marsella, a lo que Fajardo responde de forma afirmativa. Sigue paso a paso el tour y consigue contactar con una familia joven a pocas calles de su piso para cenar en un par de noches. 
 
 ## Conclusiones
 
-> Conclusiones de la práctica y de los tres casos
+En general, los tres casos que hemos tenido que revisar han realizado todos los ítems de las prácticas, pero solo en el caso 2 está todo el proceso del producto bien documentado en los distintos *readme*. 
+
+La historia del producto es muy importante para saber cómo se ha desarrollado el proyecto, y ayuda a identificar rápido los problemas que puede haber a la hora de que los usuarios usen la aplicación.
 
 #### Ranking
 
-> Aquí va el ranking que hay en el readme principal
+**1º** puesto con **90** puntos: **Sharee**, de DIU2.Ortega-Y-Gasset ([web](https://github.com/romanlarrosa/DIU20)).
+
+**2º** puesto con **82** puntos: **Miss Travel**, de DIU1.ODAKACI ([web](https://github.com/cmartin-moreno/DIU20)).
+
+**3º** puesto con **70** puntos: **Comecon**, de DIU3.Manduka ([web](https://github.com/alexhzr/diumanduka)).
